@@ -1,3 +1,16 @@
+<div align="center">
+
+# 👋 Welcome to Mehdi Hassan's Profile!
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+Mehdi+Hassan's+Profile!;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Insights;Exploring+Data+and+Building+Projects" alt="Typing SVG" />
+</a>
+
+### 📊 Data Analyst | Python | SQL | Excel | Power BI
+
+</div>
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
