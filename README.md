@@ -1,13 +1,4 @@
-
-<!-- =============== WELCOME HEADER =============== -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Hi%2C+I'm+Mehdi+Hassan;Computer+Science+Student;Aspiring+Data+Analyst;Learning+Data+Science+Every+Day" alt="Welcome to my GitHub profile"/>
-
-
- 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-hassan-65b02a3b0)
 [![Connect](https://img.shields.io/badge/CONNECT-0077B5?style=flat)](https://www.linkedin.com/in/mehdi-hassan-65b02a3b0)
