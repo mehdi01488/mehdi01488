@@ -1,4 +1,3 @@
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -28,13 +27,19 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Data Science & Machine Learning**
+**Data Analytics**
 
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-4C72B0?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/DATA_CLEANING-00897B?style=flat)
+![Data Visualization](https://img.shields.io/badge/DATA_VISUALIZATION-6A5ACD?style=flat)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-4682B4?style=flat)
 
 **Web Development**
 
@@ -53,8 +58,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/EXCEL-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
