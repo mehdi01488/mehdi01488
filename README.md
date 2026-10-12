@@ -1,22 +1,20 @@
-🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-hassan-65b02a3b0)
-[![Connect](https://img.shields.io/badge/CONNECT-0077B5?style=flat)](https://www.linkedin.com/in/mehdi-hassan-65b02a3b0)
+## 🌐 Connect With Me
 
-<br>
-
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@technicalmehdihassan)
-[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-000000?style=flat)](https://youtube.com/@technicalmehdihassan)
-
-<br>
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mehdihassan2988)
-[![Follow](https://img.shields.io/badge/FOLLOW-000000?style=flat)](https://www.instagram.com/mehdihassan2988)
-
-<br>
-
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mehdi01488@gmail.com)
-[![Contact](https://img.shields.io/badge/CONTACT-EA4335?style=flat)](mailto:mehdi01488@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehdi-hassan-65b02a3b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/@technicalmehdihassan">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/mehdihassan2988">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:mehdi01488@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
